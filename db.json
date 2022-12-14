@@ -1,64 +1,1925 @@
 {
-  "users": [
+  "newArrivals": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f1/P00689127.jpg",
+      "brand": "Valentino",
+      "description": "Double-breasted leather jacket",
+      "price": "€ 4,620"
     },
     {
       "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5d/P00766431.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Amaryllis sterling silver and 18kt gold ring",
+      "price": "€ 1,109"
     },
     {
       "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/56/P00737647.jpg",
+      "brand": "Gucci",
+      "description": "Ophidia Medium tote bag",
+      "price": "€ 1,975"
     },
     {
       "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/93/P00737482.jpg",
+      "brand": "Gucci",
+      "description": "Shearling-trimmed wool cardigan",
+      "price": "€ 2,775"
     },
     {
       "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/31/P00766445.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Marigold sterling silver, 18kt yellow, and rose gold ring with diamonds",
+      "price": "€ 1,665"
     },
     {
       "id": 6,
-      "name": "Karney Wylie",
-      "age": 22,
-      "email": "kwylie5@miitbeian.gov.cn"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/49/P00745780.jpg",
+      "brand": "Bottega Veneta",
+      "description": "Intrecciato leather loafers",
+      "price": "€ 925"
     },
     {
       "id": 7,
-      "name": "Cammi Pimbley",
-      "age": 63,
-      "email": "cpimbley6@nyu.edu"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/70/P00737496.jpg",
+      "brand": "Gucci",
+      "description": "Horsebit striped wide-leg wool pants",
+      "price": "€ 925"
     },
     {
       "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fa/P00745712.jpg",
+      "brand": "Alexander McQueen",
+      "description": "Double-breasted wool blazer",
+      "price": "€ 2,009"
     },
     {
       "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e1/P00745818.jpg",
+      "brand": "Bottega Veneta",
+      "description": "Intrecciato Medium leather document case",
+      "price": "€ 1,599"
     },
     {
       "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com"
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00766440.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Raneth 18kt gold, rose gold, and sterling silver ring",
+      "price": "€ 2,215"
+    },
+    {
+      "id": 11,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b3/P00737566.jpg",
+      "brand": "Gucci",
+      "description": "Straight wool and cashmere pants",
+      "price": "€ 1,265"
+    },
+    {
+      "id": 12,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1a/P00739363.jpg",
+      "brand": "Burberry",
+      "description": "Checked wool and leather bomber jacket",
+      "price": "€ 2,265"
+    },
+    {
+      "id": 13,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e1/P00734291.jpg",
+      "brand": "Valentino Garavani",
+      "description": "Rockstud bucket hat",
+      "price": "€ 415"
+    },
+    {
+      "id": 14,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c9/P00772856.jpg",
+      "brand": "Balenciaga",
+      "description": "x Adidas leather belt bag",
+      "price": "€ 1,250"
+    },
+    {
+      "id": 15,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cb/P00734259.jpg",
+      "brand": "Valentino",
+      "description": "Rockstud cotton T-shirt",
+      "price": "€ 465"
+    },
+    {
+      "id": 16,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7b/P00721464.jpg",
+      "brand": "Burberry",
+      "description": "Monogram jacquard down jacket",
+      "price": "€ 1,589"
+    },
+    {
+      "id": 17,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9b/P00737676.jpg",
+      "brand": "Gucci",
+      "description": "GG wool-blend fleece beanie",
+      "price": "€ 345"
+    },
+    {
+      "id": 18,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9a/P00737574.jpg",
+      "brand": "Gucci",
+      "description": "GG faux fur ankle boots",
+      "price": "€ 665"
+    },
+    {
+      "id": 19,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d3/P00734362.jpg",
+      "brand": "Thom Browne",
+      "description": "Cable-knit crewneck sweater",
+      "price": "€ 725"
+    },
+    {
+      "id": 20,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4e/P00688473.jpg",
+      "brand": "Bottega Veneta",
+      "description": "Shearling-trimmed denim jacket",
+      "price": "€ 3,785"
+    },
+    {
+      "id": 21,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3f/P00738036.jpg",
+      "brand": "Tom Ford",
+      "description": "Ribbed-knit cashmere beanie",
+      "price": "€ 289"
+    },
+    {
+      "id": 22,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/35/P00746545.jpg",
+      "brand": "Gucci",
+      "description": "Gucci Blondie canvas shoulder bag",
+      "price": "€ 2,059"
+    },
+    {
+      "id": 23,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b9/P00734298.jpg",
+      "brand": "Valentino",
+      "description": "Rockstud cotton denim jeans",
+      "price": "€ 1,095"
+    },
+    {
+      "id": 24,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e6/P00739348.jpg",
+      "brand": "Burberry",
+      "description": "Camden car coat",
+      "price": "€ 1,425"
+    },
+    {
+      "id": 25,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00766305.jpg",
+      "brand": "Shay Jewelry",
+      "description": "18kt white gold bracelet with diamonds",
+      "price": "€ 5,365"
+    },
+    {
+      "id": 26,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7a/P00570095.jpg",
+      "brand": "Valentino Garavani",
+      "description": "One Stud leather sneakers",
+      "price": "€ 585"
+    },
+    {
+      "id": 27,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a4/P00734300.jpg",
+      "brand": "Valentino",
+      "description": "Straight-fit cotton jeans",
+      "price": "€ 925"
+    },
+    {
+      "id": 28,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/62/P00734358.jpg",
+      "brand": "Thom Browne",
+      "description": "Wool and mohair sweater",
+      "price": "€ 759"
+    },
+    {
+      "id": 29,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9f/P00766448.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Hyacinth sterling silver, 18kt gold, and rose gold ring",
+      "price": "€ 1,569"
+    },
+    {
+      "id": 30,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7e/P00698896.jpg",
+      "brand": "Thom Browne",
+      "description": "Leather belt",
+      "price": "€ 429"
+    },
+    {
+      "id": 31,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d3/P00738270.jpg",
+      "brand": "Brunello Cucinelli",
+      "description": "Slim-fit virgin wool pants",
+      "price": "€ 799"
+    },
+    {
+      "id": 32,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/75/P00711517.jpg",
+      "brand": "Acne Studios",
+      "description": "Wool-blend varsity jacket",
+      "price": "€ 499"
+    },
+    {
+      "id": 33,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/80/P00758282.jpg",
+      "brand": "Marni",
+      "description": "Logo cotton baseball cap",
+      "price": "€ 295"
+    },
+    {
+      "id": 34,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/21/P00710659.jpg",
+      "brand": "Maison Margiela",
+      "description": "New Evolution felted sneakers",
+      "price": "€ 439"
+    },
+    {
+      "id": 35,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/31/P00758249.jpg",
+      "brand": "Marni",
+      "description": "Logo cotton jersey T-shirt",
+      "price": "€ 215"
+    },
+    {
+      "id": 36,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/82/P00734350.jpg",
+      "brand": "Thom Browne",
+      "description": "Technical jacket",
+      "price": "€ 1,105"
+    },
+    {
+      "id": 37,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/74/P00766430.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Calliope sterling silver, 18kt gold and rose gold ring",
+      "price": "€ 665"
+    },
+    {
+      "id": 38,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/24/P00679565.jpg",
+      "brand": "Christian Louboutin",
+      "description": "Louis suede high-top sneakers",
+      "price": "€ 585"
+    },
+    {
+      "id": 39,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b0/P00734351.jpg",
+      "brand": "Thom Browne",
+      "description": "Technical sweatpants",
+      "price": "€ 875"
+    },
+    {
+      "id": 40,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e6/P00459017.jpg",
+      "brand": "Burberry",
+      "description": "Reversible Vintage check jacket",
+      "price": "€ 919"
+    },
+    {
+      "id": 41,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bf/P00766437.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Libra 18kt gold, sterling silver, and rose gold ring with diamonds",
+      "price": "€ 4,975"
+    },
+    {
+      "id": 42,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1a/P00483708.jpg",
+      "brand": "Christian Louboutin",
+      "description": "Louis Junior Spikes sneakers",
+      "price": "€ 702"
+    },
+    {
+      "id": 43,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/89/P00522576.jpg",
+      "brand": "Loro Piana",
+      "description": "Horsey open polo shirt",
+      "price": "€ 380"
+    },
+    {
+      "id": 44,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/17/P00613379.jpg",
+      "brand": "Gucci",
+      "description": "Padded down jacket",
+      "price": "€ 1,665"
+    },
+    {
+      "id": 45,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1b/P00766426.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Helio 18kt yellow gold bracelet",
+      "price": "€ 4,239"
+    },
+    {
+      "id": 46,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/93/P00745703.jpg",
+      "brand": "Alexander McQueen",
+      "description": "Leather Chelsea boots",
+      "price": "€ 749"
+    },
+    {
+      "id": 47,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00737660.jpg",
+      "brand": "Gucci",
+      "description": "Interlocking G cotton top",
+      "price": "€ 499"
+    },
+    {
+      "id": 48,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/13/P00777806.jpg",
+      "brand": "Givenchy",
+      "description": "Single-breasted blazer",
+      "price": "€ 2,229"
+    },
+    {
+      "id": 49,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/40/P00737588.jpg",
+      "brand": "Gucci",
+      "description": "Double G Rhombus jacquard tie",
+      "price": "€ 179"
+    },
+    {
+      "id": 50,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/92/P00766295.jpg",
+      "brand": "Shay Jewelry",
+      "description": "18kt black gold tennis bracelet with emeralds",
+      "price": "€ 13,385"
+    },
+    {
+      "id": 51,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4c/P00745836.jpg",
+      "brand": "Bottega Veneta",
+      "description": "Striped cotton shirt",
+      "price": "€ 589"
+    },
+    {
+      "id": 52,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a0/P00745772.jpg",
+      "brand": "Bottega Veneta",
+      "description": "Wool and cashmere sweater",
+      "price": "€ 1,429"
+    },
+    {
+      "id": 53,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fe/P00766433.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Amaryllis sterling silver ring",
+      "price": "€ 465"
+    },
+    {
+      "id": 54,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/89/P00489213.jpg",
+      "brand": "Thom Browne",
+      "description": "Grained leather penny loafers",
+      "price": "€ 565"
+    },
+    {
+      "id": 55,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00501843.jpg",
+      "brand": "Thom Browne",
+      "description": "4-Bar wool suiting pants",
+      "price": "€ 819"
+    },
+    {
+      "id": 56,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f8/P00722363.jpg",
+      "brand": "Missoni",
+      "description": "Zig-zag cotton-blend shirt",
+      "price": "€ 465"
+    },
+    {
+      "id": 57,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/09/P00766358.jpg",
+      "brand": "Shay Jewelry",
+      "description": "18kt yellow gold bracelet with diamonds",
+      "price": "€ 5,549"
+    },
+    {
+      "id": 58,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00738308.jpg",
+      "brand": "Brunello Cucinelli",
+      "description": "Cotton knitted sneakers",
+      "price": "€ 665"
+    },
+    {
+      "id": 59,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/14/P00738240.jpg",
+      "brand": "Brunello Cucinelli",
+      "description": "Cotton-blend slim pants",
+      "price": "€ 415"
+    },
+    {
+      "id": 60,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ef/P00738082.jpg",
+      "brand": "Tom Ford",
+      "description": "Wool and silk cardigan",
+      "price": "€ 1,305"
+    },
+    {
+      "id": 61,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c6/P00766301.jpg",
+      "brand": "Shay Jewelry",
+      "description": "18kt black gold bracelet with diamonds",
+      "price": "€ 6,385"
+    },
+    {
+      "id": 62,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d8/P00511560.jpg",
+      "brand": "Tom Ford",
+      "description": "Leather tote bag",
+      "price": "€ 3,240"
+    },
+    {
+      "id": 63,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0b/P00721445.jpg",
+      "brand": "Burberry",
+      "description": "Straight wool pants",
+      "price": "€ 835"
+    },
+    {
+      "id": 64,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/91/P00734376.jpg",
+      "brand": "Thom Browne",
+      "description": "Cotton sweatshirt",
+      "price": "€ 959"
+    },
+    {
+      "id": 65,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0c/P00734798.jpg",
+      "brand": "Celine Eyewear",
+      "description": "Cat-eye sunglasses",
+      "price": "€ 229"
+    },
+    {
+      "id": 66,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0c/P00766427.jpg",
+      "brand": "Spinelli Kilcollin",
+      "description": "Serpens sterling silver bracelet",
+      "price": "€ 2,215"
+    },
+    {
+      "id": 67,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5d/P00779406.jpg",
+      "brand": "Moncler",
+      "description": "Cotton tapered pants",
+      "price": "€ 500"
+    },
+    {
+      "id": 68,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8d/P00757200.jpg",
+      "brand": "Kenzo",
+      "description": "Boke Flower jacquard cotton sweater",
+      "price": "€ 329"
+    },
+    {
+      "id": 69,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8a/P00737805.jpg",
+      "brand": "Versace",
+      "description": "La Medusa bucket hat",
+      "price": "€ 379"
+    },
+    {
+      "id": 70,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Valentino Garavani",
+      "description": "Open Skate leather sneakers",
+      "price": "€ 640"
+    },
+    {
+      "id": 71,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "Printed oversized cotton sweatshirt",
+      "price": "€ 850"
+    },
+    {
+      "id": 72,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Shay Jewelry",
+      "description": "18kt white gold huggie earrings with diamonds and garnets",
+      "price": "€ 2,419"
+    },
+    {
+      "id": 73,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Givenchy",
+      "description": "Antigona large weekender bag",
+      "price": "€ 2,059"
+    },
+    {
+      "id": 74,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "Large Baggy sweatpants",
+      "price": "€ 850"
+    },
+    {
+      "id": 75,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "Oversized checked cotton shirt",
+      "price": "€ 1,100"
+    },
+    {
+      "id": 76,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Shay Jewelry",
+      "description": "18kt gold chainlink bracelet with diamonds",
+      "price": "€ 4,149"
+    },
+    {
+      "id": 77,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "x Adidas leather duffle bag",
+      "price": "€ 2,900"
+    },
+    {
+      "id": 78,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "x Adidas Logo cotton T-shirt",
+      "price": "€ 550"
+    },
+    {
+      "id": 79,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Gucci",
+      "description": "Jumbo GG canvas jacket",
+      "price": "€ 1,599"
+    },
+    {
+      "id": 80,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Spinelli Kilcollin",
+      "description": "Tigris MX Gris sterling silver, 18kt gold, and rose gold ring with diamonds",
+      "price": "€ 1,845"
+    },
+    {
+      "id": 81,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Logo platform sneakers",
+      "price": "€ 249"
+    },
+    {
+      "id": 82,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Jil Sander",
+      "description": "Pack of three cotton T-shirts",
+      "price": "€ 245"
+    },
+    {
+      "id": 83,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "Oversized denim jacket",
+      "price": "€ 1,300"
+    },
+    {
+      "id": 84,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "BB leather card holder",
+      "price": "€ 195"
+    },
+    {
+      "id": 85,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Valentino Garavani",
+      "description": "VLogo Stud leather loafers",
+      "price": "€ 749"
+    },
+    {
+      "id": 86,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Bottega Veneta",
+      "description": "Denim shirt",
+      "price": "€ 675"
+    },
+    {
+      "id": 87,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Gucci",
+      "description": "Checked wool-blend blazer",
+      "price": "€ 2,695"
+    },
+    {
+      "id": 88,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Leather studded messenger bag",
+      "price": "€ 1,055"
+    },
+    {
+      "id": 89,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Rick Owens",
+      "description": "Geobasket high-top leather sneakers",
+      "price": "€ 745"
+    },
+    {
+      "id": 90,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Gucci",
+      "description": "GG Supreme packing cube",
+      "price": "€ 405"
+    },
+    {
+      "id": 91,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Burberry",
+      "description": "Leeds down bomber jacket",
+      "price": "€ 1,085"
+    },
+    {
+      "id": 92,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Gucci",
+      "description": "GG wool-blend fleece beanie",
+      "price": "€ 345"
+    },
+    {
+      "id": 93,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Saint Laurent",
+      "description": "Court Classic SL/10H sneakers",
+      "price": "€ 545"
+    },
+    {
+      "id": 94,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Alexander McQueen",
+      "description": "Skull cotton jersey T-shirt",
+      "price": "€ 499"
+    },
+    {
+      "id": 95,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Moncler",
+      "description": "Akinari quilted down jacket",
+      "price": "€ 1,295"
+    },
+    {
+      "id": 96,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "x Adidas leather backpack",
+      "price": "€ 1,600"
+    },
+    {
+      "id": 97,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Dolce&Gabbana",
+      "description": "Portofino leather sneakers",
+      "price": "€ 620"
+    },
+    {
+      "id": 98,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton sateen cargo pants",
+      "price": "€ 209"
+    },
+    {
+      "id": 99,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Stone Island",
+      "description": "Nylon down jacket",
+      "price": "€ 759"
+    },
+    {
+      "id": 100,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "x Adidas leather card holder",
+      "price": "€ 250"
+    },
+    {
+      "id": 101,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Moncler",
+      "description": "Leather Chelsea boots",
+      "price": "€ 615"
+    },
+    {
+      "id": 102,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Moncler",
+      "description": "Cotton piqué polo shirt",
+      "price": "€ 220"
+    },
+    {
+      "id": 103,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Zip turtleneck cotton sweatshirt",
+      "price": "€ 209"
+    },
+    {
+      "id": 104,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Saint Laurent",
+      "description": "Corduroy baseball cap",
+      "price": "€ 249"
+    },
+    {
+      "id": 105,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Nylon B messenger bag",
+      "price": "€ 205"
+    },
+    {
+      "id": 106,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton sateen cargo pants",
+      "price": "€ 209"
+    },
+    {
+      "id": 107,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Moncler Genius",
+      "description": "x Palm Angels Thompson down jacket",
+      "price": "€ 1,345"
+    },
+    {
+      "id": 108,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Giorgio Armani",
+      "description": "Leather-trimmed linen travel bag",
+      "price": "€ 1,265"
+    },
+    {
+      "id": 109,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Commas",
+      "description": "Linen and cotton polo top",
+      "price": "€ 395"
+    },
+    {
+      "id": 110,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Nylon B logo bucket hat",
+      "price": "€ 95"
+    },
+    {
+      "id": 111,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Bottega Veneta",
+      "description": "Triangle leather key ring",
+      "price": "€ 245"
+    },
+    {
+      "id": 112,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Commas",
+      "description": "Sleeveless knitted top",
+      "price": "€ 265"
+    },
+    {
+      "id": 113,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Chrome-R tapered pants",
+      "price": "€ 205"
+    },
+    {
+      "id": 114,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Dolce&Gabbana",
+      "description": "Logo leather tote bag",
+      "price": "€ 1,270"
+    },
+    {
+      "id": 115,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Medusa Biggie leather cardholder",
+      "price": "€ 245"
+    },
+    {
+      "id": 116,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Logo cotton T-shirt",
+      "price": "€ 105"
+    },
+    {
+      "id": 117,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Stone Island",
+      "description": "Cotton crewneck sweatshirt",
+      "price": "€ 209"
+    },
+    {
+      "id": 118,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Nylon B messenger bag",
+      "price": "€ 145"
+    },
+    {
+      "id": 119,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Moncler",
+      "description": "Padded biker jacket",
+      "price": "€ 980"
+    },
+    {
+      "id": 120,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton fleece sweatshirt",
+      "price": "€ 159"
+    }
+  ],
+  "clothing": [
+    {
+      "id": 121,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/32/P00680517.jpg",
+      "brand": "Versace",
+      "description": "Silver Baroque print puffer jacket",
+      "price": "€ 2,349",
+      "discountedPrice": "€ 1,644",
+      "discount": "30% off"
+    },
+    {
+      "id": 122,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c1/P00681306.jpg",
+      "brand": "Versace",
+      "description": "Padded logo bomber jacket",
+      "price": "€ 1,509",
+      "discountedPrice": "€ 1,056",
+      "discount": "30% off"
+    },
+    {
+      "id": 123,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f9/P00681299.jpg",
+      "brand": "Versace",
+      "description": "Single-breasted wool tweed blazer",
+      "price": "€ 2,015",
+      "discountedPrice": "€ 1,410",
+      "discount": "30% off"
+    },
+    {
+      "id": 124,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/64/P00681307.jpg",
+      "brand": "Versace",
+      "description": "Single-breasted wool blazer",
+      "price": "€ 1,509",
+      "discountedPrice": "€ 1,056",
+      "discount": "30% off"
+    },
+    {
+      "id": 125,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/89/P00681305.jpg",
+      "brand": "Versace",
+      "description": "High-rise straight wool pants",
+      "price": "€ 799",
+      "discountedPrice": "€ 559",
+      "discount": "30% off"
+    },
+    {
+      "id": 126,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/29/P00652667.jpg",
+      "brand": "Tom Ford",
+      "description": "Padded down vest",
+      "price": "€ 1,925",
+      "discountedPrice": "€ 1,347",
+      "discount": "30% off"
+    },
+    {
+      "id": 127,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/68/P00725362.jpg",
+      "brand": "Tom Ford",
+      "description": "High-rise tapered jeans",
+      "price": "€ 625",
+      "discountedPrice": "€ 437",
+      "discount": "30% off"
+    },
+    {
+      "id": 128,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5d/P00611722.jpg",
+      "brand": "Tom Ford",
+      "description": "Velvet hoodie",
+      "price": "€ 945",
+      "discountedPrice": "€ 472",
+      "discount": "50% off"
+    },
+    {
+      "id": 129,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a1/P00611763.jpg",
+      "brand": "Tom Ford",
+      "description": "Velour sweatpants",
+      "price": "€ 775",
+      "discountedPrice": "€ 542",
+      "discount": "30% off"
+    },
+    {
+      "id": 130,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fc/P00611755.jpg",
+      "brand": "Tom Ford",
+      "description": "Velour shirt",
+      "price": "€ 709",
+      "discountedPrice": "€ 425",
+      "discount": "40% off"
+    },
+    {
+      "id": 131,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/72/P00611683.jpg",
+      "brand": "Tom Ford",
+      "description": "Straight wool and silk organza pants",
+      "price": "€ 895",
+      "discountedPrice": "€ 626",
+      "discount": "30% off"
+    },
+    {
+      "id": 132,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/50/P00611678.jpg",
+      "brand": "Tom Ford",
+      "description": "Belted satin and silk trench coat",
+      "price": "€ 3,695",
+      "discountedPrice": "€ 1,847",
+      "discount": "50% off"
+    },
+    {
+      "id": 133,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Silk-blend shirt",
+      "price": "€ 795",
+      "discountedPrice": "€ 477",
+      "discount": "40% off"
+    },
+    {
+      "id": 134,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Cotton-blend tapered sweatpants",
+      "price": "€ 499",
+      "discountedPrice": "€ 299",
+      "discount": "40% off"
+    },
+    {
+      "id": 135,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Reverse twill organza pants",
+      "price": "€ 1,029",
+      "discountedPrice": "€ 720",
+      "discount": "30% off"
+    },
+    {
+      "id": 136,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Reverse twill organza suit jacket",
+      "price": "€ 2,945",
+      "discountedPrice": "€ 1,472",
+      "discount": "50% off"
+    },
+    {
+      "id": 137,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Fluid velour shirt",
+      "price": "€ 709",
+      "discountedPrice": "€ 496",
+      "discount": "30% off"
+    },
+    {
+      "id": 138,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Lurex twill slim pants",
+      "price": "€ 1,205",
+      "discountedPrice": "€ 723",
+      "discount": "40% off"
+    },
+    {
+      "id": 139,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Long-sleeved Henley T-shirt",
+      "price": "€ 585",
+      "discountedPrice": "€ 409",
+      "discount": "30% off"
+    },
+    {
+      "id": 140,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Medusa cotton cargo pants",
+      "price": "€ 755",
+      "discountedPrice": "€ 528",
+      "discount": "30% off"
+    },
+    {
+      "id": 141,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Corduroy jacket",
+      "price": "€ 835",
+      "discountedPrice": "€ 584",
+      "discount": "30% off"
+    },
+    {
+      "id": 142,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Medusa denim jacket",
+      "price": "€ 1,005",
+      "discountedPrice": "€ 603",
+      "discount": "40% off"
+    },
+    {
+      "id": 143,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Set of 3 La Greca cotton-blend boxer briefs",
+      "price": "€ 119",
+      "discountedPrice": "€ 83",
+      "discount": "30% off"
+    },
+    {
+      "id": 144,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Medusa cotton cargo pants",
+      "price": "€ 839",
+      "discountedPrice": "€ 419",
+      "discount": "50% off"
+    },
+    {
+      "id": 145,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "La Greca down puffer jacket",
+      "price": "€ 1,679",
+      "discountedPrice": "€ 839",
+      "discount": "50% off"
+    },
+    {
+      "id": 146,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "La Greca cashmere sweater",
+      "price": "€ 839",
+      "discountedPrice": "€ 419",
+      "discount": "50% off"
+    },
+    {
+      "id": 147,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Greca silk-blend pajama shorts",
+      "price": "€ 215",
+      "discountedPrice": "€ 129",
+      "discount": "40% off"
+    },
+    {
+      "id": 148,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Greca set of three cotton-blend briefs",
+      "price": "€ 119",
+      "discountedPrice": "€ 83",
+      "discount": "30% off"
+    },
+    {
+      "id": 149,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Versace",
+      "description": "Medusa Twisted straight jeans",
+      "price": "€ 585",
+      "discountedPrice": "€ 409",
+      "discount": "30% off"
+    },
+    {
+      "id": 150,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Cashmere and linen Henley shirt",
+      "price": "€ 1,255",
+      "discountedPrice": "€ 878",
+      "discount": "30% off"
+    },
+    {
+      "id": 151,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Checked long-sleeved shirt",
+      "price": "€ 400",
+      "discountedPrice": "€ 280",
+      "discount": "30% off"
+    },
+    {
+      "id": 152,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Seamless cashmere sweatpants",
+      "price": "€ 1,505",
+      "discountedPrice": "€ 1,053",
+      "discount": "30% off"
+    },
+    {
+      "id": 153,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Cotton corduroy pants",
+      "price": "€ 635",
+      "discountedPrice": "€ 381",
+      "discount": "40% off"
+    },
+    {
+      "id": 154,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Long-sleeved Henley T-shirt",
+      "price": "€ 455",
+      "discountedPrice": "€ 318",
+      "discount": "30% off"
+    },
+    {
+      "id": 155,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Half-zipped cotton-blend sweater",
+      "price": "€ 415",
+      "discountedPrice": "€ 290",
+      "discount": "30% off"
+    },
+    {
+      "id": 156,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Cotton-blend sweater",
+      "price": "€ 415",
+      "discountedPrice": "€ 290",
+      "discount": "30% off"
+    },
+    {
+      "id": 157,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Long-sleeved Henley T-shirt",
+      "price": "€ 455",
+      "discountedPrice": "€ 318",
+      "discount": "30% off"
+    },
+    {
+      "id": 158,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Tiger print shorts",
+      "price": "€ 439",
+      "discountedPrice": "€ 307",
+      "discount": "30% off"
+    },
+    {
+      "id": 159,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Floral shirt",
+      "price": "€ 489",
+      "discountedPrice": "€ 342",
+      "discount": "30% off"
+    },
+    {
+      "id": 160,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Cotton sweatshirt",
+      "price": "€ 535",
+      "discountedPrice": "€ 374",
+      "discount": "30% off"
+    },
+    {
+      "id": 161,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Tapered corduroy pants",
+      "price": "€ 635",
+      "discountedPrice": "€ 444",
+      "discount": "30% off"
+    },
+    {
+      "id": 162,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Cotton jersey hooded sweatshirt",
+      "price": "€ 835",
+      "discountedPrice": "€ 584",
+      "discount": "30% off"
+    },
+    {
+      "id": 163,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Single-breasted blazer",
+      "price": "€ 2,265",
+      "discountedPrice": "€ 1,585",
+      "discount": "30% off"
+    },
+    {
+      "id": 164,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Technical-blend pants",
+      "price": "€ 499",
+      "discountedPrice": "€ 299",
+      "discount": "40% off"
+    },
+    {
+      "id": 165,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Silk-blend shirt",
+      "price": "€ 795",
+      "discountedPrice": "€ 556",
+      "discount": "30% off"
+    },
+    {
+      "id": 166,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Quilted military overshirt",
+      "price": "€ 2,095",
+      "discountedPrice": "€ 1,466",
+      "discount": "30% off"
+    },
+    {
+      "id": 167,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Hooded down jacket",
+      "price": "€ 2,765",
+      "discountedPrice": "€ 1,935",
+      "discount": "30% off"
+    },
+    {
+      "id": 168,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Cashmere sweatpants",
+      "price": "€ 1,505",
+      "discountedPrice": "€ 1,053",
+      "discount": "30% off"
+    },
+    {
+      "id": 169,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Lurex slim-fit pants",
+      "price": "€ 835",
+      "discountedPrice": "€ 584",
+      "discount": "30% off"
+    },
+    {
+      "id": 170,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Velvet sweatpants",
+      "price": "€ 775",
+      "discountedPrice": "€ 542",
+      "discount": "30% off"
+    },
+    {
+      "id": 171,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Slim jeans",
+      "price": "€ 609",
+      "discountedPrice": "€ 426",
+      "discount": "30% off"
+    },
+    {
+      "id": 172,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Hooded cashmere sweatshirt",
+      "price": "€ 1,845",
+      "discountedPrice": "€ 1,291",
+      "discount": "30% off"
+    },
+    {
+      "id": 173,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Tom Ford",
+      "description": "Long-sleeved shirt",
+      "price": "€ 515",
+      "discountedPrice": "€ 360",
+      "discount": "30% off"
+    },
+    {
+      "id": 174,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Printed polo cotton shirt",
+      "price": "€ 329",
+      "discountedPrice": "€ 230",
+      "discount": "30% off"
+    },
+    {
+      "id": 175,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "Cotton jersey T-shirt",
+      "price": "€ 95",
+      "discountedPrice": "€ 66",
+      "discount": "30% off"
+    },
+    {
+      "id": 176,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Intarsia virgin wool sweater",
+      "price": "€ 475",
+      "discountedPrice": "€ 332",
+      "discount": "30% off"
+    },
+    {
+      "id": 177,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Colorblocked embroidered cotton sweater",
+      "price": "€ 185",
+      "discountedPrice": "€ 111",
+      "discount": "40% off"
+    },
+    {
+      "id": 178,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "Wool-blend cardigan",
+      "price": "€ 295",
+      "discountedPrice": "€ 206",
+      "discount": "30% off"
+    },
+    {
+      "id": 179,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "New Box cotton jersey T-shirt",
+      "price": "€ 95",
+      "discountedPrice": "€ 66",
+      "discount": "30% off"
+    },
+    {
+      "id": 180,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Ami Paris",
+      "description": "Logo cotton jersey T-shirt",
+      "price": "€ 135",
+      "discountedPrice": "€ 67",
+      "discount": "50% off"
+    },
+    {
+      "id": 181,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9b/P00680871.jpg",
+      "brand": "Ami Paris",
+      "description": "Printed cotton jersey T-shirt",
+      "price": "€ 109",
+      "discountedPrice": "€ 76",
+      "discount": "30% off"
+    },
+    {
+      "id": 182,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1c/P00680883.jpg",
+      "brand": "Ami Paris",
+      "description": "Logo cotton jersey sweatshirt",
+      "price": "€ 245",
+      "discountedPrice": "€ 171",
+      "discount": "30% off"
+    },
+    {
+      "id": 183,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a0/P00680860.jpg",
+      "brand": "Ami Paris",
+      "description": "Logo cotton jersey sweatshirt",
+      "price": "€ 239",
+      "discountedPrice": "€ 167",
+      "discount": "30% off"
+    },
+    {
+      "id": 184,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8a/P00691641.jpg",
+      "brand": "C.P. Company",
+      "description": "Cotton fleece sweatshirt",
+      "price": "€ 159",
+      "discountedPrice": "€ 95",
+      "discount": "40% off"
+    },
+    {
+      "id": 185,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/68/P00631844.jpg",
+      "brand": "Balenciaga",
+      "description": "Slime cotton jersey T-shirt",
+      "price": "€ 495",
+      "discountedPrice": "€ 346",
+      "discount": "30% off"
+    },
+    {
+      "id": 186,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b6/P00708041.jpg",
+      "brand": "Polo Ralph Lauren",
+      "description": "Chambray shirt",
+      "price": "€ 145",
+      "discountedPrice": "€ 101",
+      "discount": "30% off"
+    },
+    {
+      "id": 187,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b4/P00692717.jpg",
+      "brand": "Polo Ralph Lauren",
+      "description": "Slim-fit chambray shirt",
+      "price": "€ 119",
+      "discountedPrice": "€ 83",
+      "discount": "30% off"
+    },
+    {
+      "id": 188,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/37/P00691411.jpg",
+      "brand": "JW Anderson",
+      "description": "Intarsia wool knit sweater",
+      "price": "€ 475",
+      "discountedPrice": "€ 332",
+      "discount": "30% off"
+    },
+    {
+      "id": 189,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00708024.jpg",
+      "brand": "Polo Ralph Lauren",
+      "description": "Cable-knit cashmere sweater",
+      "price": "€ 425",
+      "discountedPrice": "€ 255",
+      "discount": "40% off"
+    },
+    {
+      "id": 190,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Polo Ralph Lauren",
+      "description": "Cotton-blend fleece hoodie",
+      "price": "€ 179",
+      "discountedPrice": "€ 107",
+      "discount": "40% off"
+    },
+    {
+      "id": 191,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "70s Cut bleached high-rise jeans",
+      "price": "€ 295",
+      "discountedPrice": "€ 206",
+      "discount": "30% off"
+    },
+    {
+      "id": 192,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Goggle cotton fleece hoodie",
+      "price": "€ 209",
+      "discountedPrice": "€ 125",
+      "discount": "40% off"
+    },
+    {
+      "id": 193,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "G.D.P. hooded jacket",
+      "price": "€ 409",
+      "discountedPrice": "€ 286",
+      "discount": "30% off"
+    },
+    {
+      "id": 194,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton-blend piqué polo shirt",
+      "price": "€ 95",
+      "discountedPrice": "€ 66",
+      "discount": "30% off"
+    },
+    {
+      "id": 195,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Ami Paris",
+      "description": "Ami de Coeur cotton sweatpants",
+      "price": "€ 219",
+      "discountedPrice": "€ 153",
+      "discount": "30% off"
+    },
+    {
+      "id": 196,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Ami Paris",
+      "description": "Ami de Cœur cotton jersey hoodie",
+      "price": "€ 289",
+      "discountedPrice": "€ 202",
+      "discount": "30% off"
+    },
+    {
+      "id": 197,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "Unity cotton jersey T-shirt",
+      "price": "€ 395",
+      "discountedPrice": "€ 276",
+      "discount": "30% off"
+    },
+    {
+      "id": 198,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Polo Ralph Lauren",
+      "description": "Cotton-blend jersey sweatpants",
+      "price": "€ 169",
+      "discountedPrice": "€ 84",
+      "discount": "50% off"
+    },
+    {
+      "id": 199,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "Cotton jersey turtleneck",
+      "price": "€ 145",
+      "discountedPrice": "€ 101",
+      "discount": "30% off"
+    },
+    {
+      "id": 200,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "Cotton twill jacket",
+      "price": "€ 239",
+      "discountedPrice": "€ 167",
+      "discount": "30% off"
+    },
+    {
+      "id": 201,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Polo Ralph Lauren",
+      "description": "Cable-knit wool and cashmere sweater",
+      "price": "€ 295",
+      "discountedPrice": "€ 177",
+      "discount": "40% off"
+    },
+    {
+      "id": 202,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "Alpaca wool-blend cardigan",
+      "price": "€ 269",
+      "discountedPrice": "€ 188",
+      "discount": "30% off"
+    },
+    {
+      "id": 203,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Polo Ralph Lauren",
+      "description": "Corduroy shirt",
+      "price": "€ 129",
+      "discountedPrice": "€ 90",
+      "discount": "30% off"
+    },
+    {
+      "id": 204,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Quilted nylon padded jacket",
+      "price": "€ 479",
+      "discountedPrice": "€ 335",
+      "discount": "30% off"
+    },
+    {
+      "id": 205,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Logo-detail knitted sweater",
+      "price": "€ 195",
+      "discountedPrice": "€ 97",
+      "discount": "50% off"
+    },
+    {
+      "id": 206,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Chrome-R Medium padded jacket",
+      "price": "€ 585",
+      "discountedPrice": "€ 351",
+      "discount": "40% off"
+    },
+    {
+      "id": 207,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton fleece sweatshirt",
+      "price": "€ 159",
+      "discountedPrice": "€ 95",
+      "discount": "40% off"
+    },
+    {
+      "id": 208,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton piqué polo shirt",
+      "price": "€ 95",
+      "discountedPrice": "€ 66",
+      "discount": "30% off"
+    },
+    {
+      "id": 209,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "Unity cotton hooded sweatshirt",
+      "price": "€ 650",
+      "discountedPrice": "€ 455",
+      "discount": "30% off"
+    },
+    {
+      "id": 210,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "Printed cotton jersey T-shirt",
+      "price": "€ 350",
+      "discountedPrice": "€ 245",
+      "discount": "30% off"
+    },
+    {
+      "id": 211,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Ralph Lauren Purple Label",
+      "description": "Polo Bear cotton piqué polo shirt",
+      "price": "€ 379",
+      "discountedPrice": "€ 189",
+      "discount": "50% off"
+    },
+    {
+      "id": 212,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Derek Rose",
+      "description": "Cashmere sweatpants",
+      "price": "€ 525",
+      "discountedPrice": "€ 315",
+      "discount": "40% off"
+    },
+    {
+      "id": 213,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "Dolphin Wool and cashmere coat",
+      "price": "€ 585",
+      "discountedPrice": "€ 409"
+    },
+    {
+      "id": 214,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Intarsia wool sweater",
+      "price": "€ 475",
+      "discountedPrice": "€ 332",
+      "discount": "30% off"
+    },
+    {
+      "id": 215,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Elephant wool turtleneck sweater",
+      "price": "€ 435",
+      "discountedPrice": "€ 304",
+      "discount": "30% off"
+    },
+    {
+      "id": 216,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Elephant printed cotton polo shirt",
+      "price": "€ 215",
+      "discountedPrice": "€ 129",
+      "discount": "40% off"
+    },
+    {
+      "id": 217,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Frescobol Carioca",
+      "description": "Sport Swim printed swim trunks",
+      "price": "€ 149",
+      "discountedPrice": "€ 104",
+      "discount": "30% off"
+    },
+    {
+      "id": 218,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Ami Paris",
+      "description": "Denim jacket",
+      "price": "€ 279",
+      "discountedPrice": "€ 195",
+      "discount": "30% off"
+    },
+    {
+      "id": 219,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton chenille hoodie",
+      "price": "€ 219",
+      "discountedPrice": "€ 153",
+      "discount": "30% off"
+    },
+    {
+      "id": 220,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton hoodie",
+      "price": "€ 185",
+      "discountedPrice": "€ 111",
+      "discount": "40% off"
+    },
+    {
+      "id": 221,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton sateen cargo pants",
+      "price": "€ 219",
+      "discountedPrice": "€ 109",
+      "discount": "50% off"
+    },
+    {
+      "id": 222,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Cotton blouson jacket",
+      "price": "€ 295",
+      "discountedPrice": "€ 206",
+      "discount": "30% off"
+    },
+    {
+      "id": 223,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Wool-blend hoodie",
+      "price": "€ 239",
+      "discountedPrice": "€ 167",
+      "discount": "30% off"
+    },
+    {
+      "id": 224,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Dolce&Gabbana",
+      "description": "Logo swim trunks",
+      "price": "€ 300",
+      "discountedPrice": "€ 210",
+      "discount": "30% off"
+    },
+    {
+      "id": 225,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Lanvin",
+      "description": "Embroidered cotton T-shirt",
+      "price": "€ 355",
+      "discountedPrice": "€ 248",
+      "discount": "30% off"
+    },
+    {
+      "id": 226,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Marni",
+      "description": "Logo cotton jersey T-shirt",
+      "price": "€ 315",
+      "discountedPrice": "€ 220",
+      "discount": "30% off"
+    },
+    {
+      "id": 227,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Our Legacy",
+      "description": "Borrowed BD cotton shirt",
+      "price": "€ 219",
+      "discountedPrice": "€ 153",
+      "discount": "30% off"
+    },
+    {
+      "id": 228,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Bode",
+      "description": "Logo cotton T-shirt",
+      "price": "€ 195",
+      "discountedPrice": "€ 117",
+      "discount": "40% off"
+    },
+    {
+      "id": 229,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Auralee",
+      "description": "Cotton sweatshirt",
+      "price": "€ 245",
+      "discountedPrice": "€ 171",
+      "discount": "30% off"
+    },
+    {
+      "id": 230,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Turtleneck sweater",
+      "price": "€ 465",
+      "discountedPrice": "€ 325",
+      "discount": "30% off"
+    },
+    {
+      "id": 231,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "JW Anderson",
+      "description": "Hooded cotton sweatshirt",
+      "price": "€ 245",
+      "discountedPrice": "€ 147",
+      "discount": "40% off"
+    },
+    {
+      "id": 232,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Down-paneled wool jacket",
+      "price": "€ 489",
+      "discountedPrice": "€ 342",
+      "discount": "30% off"
+    },
+    {
+      "id": 233,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Logo-detail knitted sweater",
+      "price": "€ 195",
+      "discountedPrice": "€ 97",
+      "discount": "50% off"
+    },
+    {
+      "id": 234,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "G.D.P. hooded jacket",
+      "price": "€ 409",
+      "discountedPrice": "€ 286",
+      "discount": "30% off"
+    },
+    {
+      "id": 235,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Ami Paris",
+      "description": "Straight cotton gabardine chinos",
+      "price": "€ 205",
+      "discountedPrice": "€ 143",
+      "discount": "30% off"
+    },
+    {
+      "id": 236,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "C.P. Company",
+      "description": "Corduroy shirt",
+      "price": "€ 225",
+      "discountedPrice": "€ 157",
+      "discount": "30% off"
+    },
+    {
+      "id": 237,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Dolce&Gabbana",
+      "description": "Denim shirt",
+      "price": "€ 705",
+      "discountedPrice": "€ 493",
+      "discount": "30% off"
+    },
+    {
+      "id": 238,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Balenciaga",
+      "description": "Slime cotton-blend hooded sweatshirt",
+      "price": "€ 795",
+      "discountedPrice": "€ 556",
+      "discount": "30% off"
+    },
+    {
+      "id": 239,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Lanvin",
+      "description": "Logo embroidered cotton T-shirt",
+      "price": "€ 245",
+      "discountedPrice": "€ 171",
+      "discount": "30% off"
+    },
+    {
+      "id": 240,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "brand": "Ralph Lauren Purple Label",
+      "description": "Hooded cotton-blend sweatshirt",
+      "price": "€ 549",
+      "discountedPrice": "€ 384",
+      "discount": "30% off"
     }
   ]
 }
